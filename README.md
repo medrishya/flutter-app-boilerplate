@@ -1,16 +1,13 @@
-# flutter_project
+## About the repository.
 
-A new Flutter project.
+- Clone the repository and execute `flutter pub get` to install the packages.
+- Run `flutter run` to start the development server.
+- Please check pubspec.yaml file to get a glimpse of flutter and sdk versions involved.
+- Flutter linter with some basic rules is setup on the file `analysis_options.yaml`.
+- Lint staged and husky has been implemented in this project.
 
-## Getting Started
+This project involves basic setup of flutter application and avoids hassle to setup basic linting rules, lint-staged and husky in a flutter application.
 
-This project is a starting point for a Flutter application.
+## Thank you very much.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Happy Coding
